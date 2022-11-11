@@ -62,7 +62,7 @@
                 Console.WriteLine("-------------------------------");
                 Console.WriteLine(Product.marketName);
                 Console.WriteLine($"Name: {product.Name}");
-                Console.WriteLine($"description :: {product.Description}");
+                Console.WriteLine($"description : {product.Description}");
                 Console.WriteLine($"Price: {product.Price}");
                 Console.WriteLine($" Discoint:  {product.Discount *100}");
                 Console.WriteLine($"DiscountPrice: {product.DiscountPrice}");
